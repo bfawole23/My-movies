@@ -1,0 +1,316 @@
+{
+  "title": "The King's Second Shadow",
+  "logline": "When King Maelor Varn's shadow begins acting on its own inside the royal palace, Queen Iselde, her brilliant scholar-wife Lady Rosalind, and their precocious eight-year-old child Prince Leo must use empirical science, witty deduction, and hilarious castle contraptions to unravel an ancient court mystery before darkness claims the throne.",
+  "characters": [
+    {
+      "name": "King Maelor Varn",
+      "look": "man in his early fifties, broad shoulders, black hair and beard streaked with grey, a pale scar through the left eyebrow, tired dark eyes, iron crown, heavy crimson robe with gold trim over dark leather armor, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-GB-RyanNeural",
+      "pitch": "+0Hz",
+      "rate": "+0%"
+    },
+    {
+      "name": "Queen Iselde",
+      "look": "regal queen in her late forties, sharp aristocratic cheekbones, piercing green eyes, intricate braided raven hair interwoven with pearls, sapphire diadem, commanding posture, luxurious emerald velvet and ermine gown with silver embroidery, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-GB-SoniaNeural",
+      "pitch": "+0Hz",
+      "rate": "+0%"
+    },
+    {
+      "name": "Lady Rosalind",
+      "look": "witty polymath noblewoman and royal consort in her early forties, brilliant warm amber eyes, wry intelligent smile, braided auburn hair tied with silver ribbons, delicate brass reading spectacles, elegant tailored sapphire-blue scholar coat with silver filigree clasps, holding leather observation journals and brass calipers, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-GB-MaisieNeural",
+      "pitch": "+0Hz",
+      "rate": "+2%"
+    },
+    {
+      "name": "Prince Leo",
+      "look": "inquisitive eight-year-old royal prince with a messy mop of tousled chestnut curls, wide energetic hazel eyes full of mischief and curiosity, royal blue tunic with rolled-up sleeves smudged with charcoal and chalk, leather tool pouch stuffed with magnifying lenses, prisms, and brass compasses, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-GB-ThomasNeural",
+      "pitch": "+3Hz",
+      "rate": "+5%"
+    },
+    {
+      "name": "The Shadow",
+      "look": "faded, translucent, spectral replica of King Maelor Varn, sharing his exact weathered facial features, grey-streaked black beard, pale eyebrow scar, tired dark eyes, and iron crown, but semi-transparent and ethereal like a ghostly apparition or faded mirror reflection with faint wisps of silver mist, having visible facial expressions and a sardonic smile, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-US-ChristopherNeural",
+      "pitch": "-18Hz",
+      "rate": "-8%"
+    },
+    {
+      "name": "Captain Doran Kell",
+      "look": "lean veteran knight in his late forties, shaved head, rough grey stubble, crooked broken nose, watchful calculating dark brown eyes, battered steel breastplate over heavy brown leather jerkin with a faded crimson guard sash, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-US-BrianNeural",
+      "pitch": "+0Hz",
+      "rate": "+0%"
+    },
+    {
+      "name": "Chancellor Pell Ormund",
+      "look": "pompous, portly chancellor in his late fifties, thinning powdered hair, nervous twitching eyebrows, double chin, opulent purple silk doublet with gold buttons, heavy brass seal of office around his neck, clutching parchment scrolls and quill pens, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-US-RogerNeural",
+      "pitch": "+0Hz",
+      "rate": "+0%"
+    },
+    {
+      "name": "Old Nessa",
+      "look": "ancient castle archivist and herbalist in her seventies, deeply weathered face framed by silver hair wrapped in embroidered woolen shawls, piercing pale blue eyes with a knowing amused squint, dried lavender and brass amulets around her neck, shot in high quality cinema camera, clear bright background, 8k resolution",
+      "voice": "en-US-AvaNeural",
+      "pitch": "-12Hz",
+      "rate": "-10%"
+    }
+  ],
+  "episode_outline": [
+    {
+      "number": 1,
+      "title": "The Shadow Moves First",
+      "summary": "During a grand royal feast, King Maelor's cast shadow raises its goblet before he does. While the king confides in Captain Doran, eight-year-old Prince Leo measures the light angle with a protractor, noticing the shadow violates the laws of light. That night a treasury guard is found fallen, and Lady Rosalind discovers the locked door was opened with a hidden counter-lever."
+    },
+    {
+      "number": 2,
+      "title": "The Law of Reflection",
+      "summary": "Terrified by the shadow's whispers, Maelor seeks advice. Lady Rosalind arrays polished silver mirrors across the throne room to triangulate the shadow's focal point, explaining specular reflection. Prince Leo accidentally blinds Chancellor Pell with a reflected sunbeam while Pell tries to present the royal tax audit."
+    },
+    {
+      "number": 3,
+      "title": "The Pinhole Inquisitor",
+      "summary": "Prince Leo converts the darkened treasury vault into a giant Camera Obscura. The inverted projected image on the wall proves the Shadow slipped through an eighth-inch keyhole gap. Rosalind explains focal length and inverted light rays, while Doran worries about the security of the kingdom's keyholes."
+    },
+    {
+      "number": 4,
+      "title": "Prism of the First Dynasty",
+      "summary": "Lady Rosalind unearths an ancient quartz prism from the archives. Splitting sunlight into the visible color spectrum, she discovers the Shadow absorbs ultraviolet and red light, emitting a strange violet phosphorescence. Prince Leo asks the Shadow if violet is its favorite color, prompting a sarcastic retort from the wall."
+    },
+    {
+      "number": 5,
+      "title": "The Courtyard Gnomon",
+      "summary": "At exact solar noon, every shadow in the castle courtyard points north\u2014except King Maelor's, which points directly at the Forgotten Tower. Leo and Rosalind explain Earth's axial rotation, solar noon, and sundials, turning Maelor's existential dread into an impromptu courtyard science lecture."
+    },
+    {
+      "number": 6,
+      "title": "The Double Penumbra",
+      "summary": "When Doran lights two battle torches, Maelor casts an umbra and two distinct penumbras\u2014but the Shadow detaches from the penumbra entirely. Rosalind explains light diffusion and partial shadows, while Leo uses hand puppets to project hilarious rabbit ears behind Chancellor Pell's back."
+    },
+    {
+      "number": 7,
+      "title": "The Monocle of Pell",
+      "summary": "Prince Leo borrows Chancellor Pell's reading monocle without asking and combines it with a crystal lens to build a refracting spyglass. Looking at the vaulted ceiling, he spots secret glyphs etched in the stones. Rosalind explains convex magnification while Pell frantically searches for his missing spectacles."
+    },
+    {
+      "number": 8,
+      "title": "Phosphor and Footprints",
+      "summary": "To map the Shadow's midnight movements, Prince Leo dusts the hallway floors with crushed fluorite and calcite. When the Shadow glides past, it excites the minerals into glowing green bioluminescence. Queen Iselde applauds the forensic trap, while Doran grumbles about cleaning glowing dust from his boots."
+    },
+    {
+      "number": 9,
+      "title": "The Low-Light Threshold",
+      "summary": "A stormy twilight descends, reducing ambient contrast in the castle. Lady Rosalind explains human retinal biology, comparing rod and cone photoreceptors. The Shadow emerges from the twilight gloom with a witty riddle regarding the foundation stones of the First Dynasty."
+    },
+    {
+      "number": 10,
+      "title": "The Mirror of Ash",
+      "summary": "Old Nessa reveals an ancient volcanic obsidian mirror. Lady Rosalind explains volcanic glass formation and internal total reflection. When Queen Iselde and Maelor gaze into the obsidian, they discover the Shadow is not an evil twin, but an ancient solar imprint bound to the throne's geometry."
+    },
+    {
+      "number": 11,
+      "title": "Resonance of the Goblet",
+      "summary": "King Maelor hears ominous humming whenever he touches his silver goblet. Leo rubs the rim of water-filled crystal glasses, demonstrating sympathetic acoustic resonance and natural frequencies. The team realizes the Shadow is transmitting sound through subterranean granite chambers beneath the banquet hall."
+    },
+    {
+      "number": 12,
+      "title": "The Whispering Gallery",
+      "summary": "Lady Rosalind investigates the curved elliptical vaulting of the Great Council Hall, demonstrating how sound waves reflect off curved surfaces to create a whispering gallery. She hilariously overhears Chancellor Pell practicing his flattery from forty feet away across the room."
+    },
+    {
+      "number": 13,
+      "title": "The Acid Etching Test",
+      "summary": "Captain Doran discovers strangely corroded coins in the royal treasury. Lady Rosalind uses citrus juice and vinegar to run an acid-base reactivity test, uncovering a hidden crest etched beneath the silver patina. Leo enthusiastically explains oxidation reactions while Pell frets over damaged coinage."
+    },
+    {
+      "number": 14,
+      "title": "Density of the Crypt Gas",
+      "summary": "Descending into the deep catacombs, Doran's torch suddenly extinguishes near the floor. Rosalind warns that carbon dioxide is denser than atmospheric air and accumulates in low pockets. Leo deploys a handmade bellows ventilation pump, saving Chancellor Pell from fainting."
+    },
+    {
+      "number": 15,
+      "title": "The Pitch of Dread",
+      "summary": "An eerie vibration fills the castle, inducing dread among the guards. Lady Rosalind identifies it as 19 Hz infrasound caused by wind blowing across narrow masonry slit windows. Leo adjusts wooden baffles to change the acoustic frequency, turning the terrifying drone into a pleasant royal whistle."
+    },
+    {
+      "number": 16,
+      "title": "The Flame Color Test",
+      "summary": "Mysterious colored fire erupts from the palace braziers\u2014emerald green and bright lilac. Prince Leo conducts a flame test with Old Nessa's mineral powders, proving the fire was spiked with copper and potassium. Queen Iselde realizes a saboteur is trying to simulate supernatural witchcraft."
+    },
+    {
+      "number": 17,
+      "title": "The Water Clock Conundrum",
+      "summary": "To calculate the Shadow's appearance times, Prince Leo builds an elaborate clepsydra water clock with calibrated copper floats. He explains fluid discharge rates and gravity flow, discovering the Shadow appears in sync with the underground river's tidal fluctuations."
+    },
+    {
+      "number": 18,
+      "title": "Speed of Sound and Echoes",
+      "summary": "Lost in the winding catacombs, Maelor and Doran struggle to locate the Shadow's laughter. Rosalind calculates their distance by clapping wooden blocks and timing the echo return, explaining the speed of sound in air. Leo maps the cavern layout using simple acoustic echolocation."
+    },
+    {
+      "number": 19,
+      "title": "The Iron Rust Mystery",
+      "summary": "Captain Doran finds the iron chains of the inner portcullis corroding at five times normal speed. Rosalind explains electrochemical oxidation and how salt water accelerates iron oxide formation. Leo discovers a bucket of salted brine hidden by a traitorous castle gatekeeper."
+    },
+    {
+      "number": 20,
+      "title": "The Geothermal Spring",
+      "summary": "Old Nessa fears sulfur vapors from the crypts signal the underworld. Rosalind and Leo explain mineral crystallization and geothermal heat, proving the warm sulfur water comes from a harmless subterranean thermal spring that Leo suggests turning into a royal hot tub."
+    },
+    {
+      "number": 21,
+      "title": "Give Me a Fulcrum",
+      "summary": "A massive three-ton granite door seals the entrance to the Old Keep. Chancellor Pell insists it requires a battalion of oxen. Leo and Rosalind construct a class-one lever with an iron beam and oak fulcrum, enabling King Maelor to pry the slab open single-handedly to the court's astonishment."
+    },
+    {
+      "number": 22,
+      "title": "The Block and Tackle",
+      "summary": "To lower Doran into a deep ventilation shaft, Prince Leo rigs a compound pulley system. Leo explains how mechanical advantage divides the load by four. Doran descends effortlessly, though Leo gets distracted by a passing butterfly and leaves the captain suspended mid-air."
+    },
+    {
+      "number": 23,
+      "title": "The Archimedes Screw",
+      "summary": "Water from an underground conduit threatens to flood the ancient archives. Rosalind and Leo design a wooden Archimedes screw pump. Chancellor Pell is tasked with turning the crank for cardiovascular health, whining about manual labor while successfully clearing the flooded library."
+    },
+    {
+      "number": 24,
+      "title": "Gears of the First Dynasty",
+      "summary": "Behind the stone door lies a massive bronze gear mechanism. Lady Rosalind explains gear train ratios, angular velocity, and torque. Leo realizes that rotating the smallest 12-tooth gear twelve times will rotate the grand 144-tooth sun dial once, opening the inner sanctum."
+    },
+    {
+      "number": 25,
+      "title": "The Inclined Plane",
+      "summary": "The court needs to haul heavy stone chests of First Dynasty records up to the laboratory. Leo constructs timber ramps with log rollers, explaining the physics of inclined planes and rolling friction reduction, while Doran marvells that brains can beat brute strength."
+    },
+    {
+      "number": 26,
+      "title": "The Pendulum of Inertia",
+      "summary": "Rosalind suspends a heavy iron sphere on a fifty-foot cable from the great dome\u2014a giant pendulum. As hours pass, the plane of oscillation slowly rotates, proving Earth's planetary rotation. The Shadow attempts to blow on it, but the law of conservation of angular momentum holds steady."
+    },
+    {
+      "number": 27,
+      "title": "The Center of Gravity",
+      "summary": "The Shadow perches tauntingly along a razor-thin parapet ledge. Rosalind explains center of mass and base of support to Maelor, while Leo demonstrates equilibrium using a carved toy bird that balances perfectly on its beak. Doran safely maneuvers the ledge using a counterweight pole."
+    },
+    {
+      "number": 28,
+      "title": "Pascal's Liquid Hammer",
+      "summary": "The team finds an ancient hydraulic locking system pressurized by water columns. Rosalind explains Pascal's law of fluid pressure transmission. Leo uses a narrow piston to effortlessly lift a massive iron deadbolt, demonstrating hydraulic force multiplication."
+    },
+    {
+      "number": 29,
+      "title": "The Wheel and Windlass",
+      "summary": "Trapped by a falling portcullis, Maelor and Doran must operate a high-ratio wooden windlass. Leo shouts instructions on wheel and axle mechanical advantage, enabling them to hoist the escape platform just before the corridor seals."
+    },
+    {
+      "number": 30,
+      "title": "The Newton's Cradle of Varn",
+      "summary": "To demonstrate momentum and kinetic energy transfer, Prince Leo constructs a giant suspended cradle using iron cannonballs. When one ball strikes the end, only the opposite ball flies out, teaching Doran and Pell the conservation of momentum in hilarious visual fashion."
+    },
+    {
+      "number": 31,
+      "title": "The Cabbage Juice Indicator",
+      "summary": "Chancellor Pell suddenly falls ill after sipping imported cordial. Rosalind boils red cabbage into an anthocyanin pH indicator, showing the cordial turns bright teal\u2014indicating an alkaline alkaloid poison. Queen Iselde places the palace on immediate lockdown to find the poisoner."
+    },
+    {
+      "number": 32,
+      "title": "The Shift Cipher",
+      "summary": "Doran intercepts a coded message tied to a carrier hawk. Prince Leo uses frequency analysis, counting the most common vowels and applying a Caesar shift of four to decode the treasonous letter, uncovering a secret rendezvous in the royal gardens."
+    },
+    {
+      "number": 33,
+      "title": "The Invisible Citrus Ink",
+      "summary": "A seemingly blank scroll is seized from a suspicious foreign envoy. Rosalind explains organic acid dehydration and carefully warms the parchment over a hearth. Brown caramelized letters appear, revealing an alliance between Duke Vane and the Shadow cult."
+    },
+    {
+      "number": 34,
+      "title": "The Wax Dermal Ridges",
+      "summary": "Rosalind examines the broken wax seal on the armory ledger. Using fine soot and a camel-hair brush, she dusts the unique friction ridges of a human fingerprint, explaining dermatoglyphics and proving the armory was ransacked by someone within the high court."
+    },
+    {
+      "number": 35,
+      "title": "Willow Bark and Feverfew",
+      "summary": "When Captain Doran suffers from a throbbing battle headache, Old Nessa and Rosalind prepare an infusion of willow bark. Rosalind explains how salicin provides natural analgesia, bridging folk herbalism with empirical pharmacological science to Pell's amazement."
+    },
+    {
+      "number": 36,
+      "title": "Capillary Action in the Tapestry",
+      "summary": "A strange dark fluid appears to be climbing upward through the royal tapestries against gravity. Leo demonstrates capillary action and cohesive surface tension using linen strips in colored dye, leading them to discover a hidden conduit behind the stone wall."
+    },
+    {
+      "number": 37,
+      "title": "The Static Electric Amber",
+      "summary": "During a dry winter night, the iron crown emits tiny crackling blue sparks when touched. Pell cries witchcraft, but Leo rubs polished amber with cat fur to demonstrate electrostatic attraction and electron transfer, delighting Queen Iselde with mini static shocks."
+    },
+    {
+      "number": 38,
+      "title": "The Lodestone's Attraction",
+      "summary": "Doran's navigation compass spins wildly inside the royal council chamber. Rosalind explains magnetic poles and ferromagnetism. Prince Leo traces the magnetic disturbance to a large lodestone secretly hidden inside the Chancellor's ceremonial footstool."
+    },
+    {
+      "number": 39,
+      "title": "Thermal Expansion of the Gates",
+      "summary": "On blazing summer afternoons, the fortress gates jam tight, yet they swing loose on freezing nights. Rosalind explains linear thermal expansion of iron. Leo designs an expansion joint gap for the hinges, solving the century-old castle gate dilemma."
+    },
+    {
+      "number": 40,
+      "title": "The Breathing Catacombs",
+      "summary": "Leo notices green moss thriving in pitch-black catacomb tunnels. Rosalind explains plant respiration, air currents, and photosynthesis, deducing there must be a high-altitude natural ventilation chimney connecting the vault directly to the mountain summit."
+    },
+    {
+      "number": 41,
+      "title": "Triangulation of the Peak",
+      "summary": "Standing on the castle battlements, Lady Rosalind and Prince Leo use a brass astrolabe to measure stellar elevation angles. Using trigonometric triangulation, they pinpoint the exact mountain coordinates where the First Dynasty constructed their solar observatory."
+    },
+    {
+      "number": 42,
+      "title": "The Speed of Light Hypothesis",
+      "summary": "King Maelor marvels that the Shadow travels across the courtyard instantaneously. Rosalind explains the astronomical timing of planetary orbits and the finite speed of light, calculating that even the fastest shadow must obey cosmic light propagation."
+    },
+    {
+      "number": 43,
+      "title": "The Parabolic Sun Collector",
+      "summary": "Anticipating the upcoming celestial event, Prince Leo constructs a large parabolic bronze mirror. He explains how parallel incident rays converge at a single intense focal point, demonstrating its power by boiling water in seconds to Chancellor Pell's utter shock."
+    },
+    {
+      "number": 44,
+      "title": "The Pressure of Bernoulli",
+      "summary": "Fierce drafts whistle through the castle gatehouse. Rosalind demonstrates Bernoulli's principle by blowing between two sheets of parchment, proving that high fluid velocity creates low pressure. Leo uses the effect to design an airflow stabilizer for the torches."
+    },
+    {
+      "number": 45,
+      "title": "The Syzygy of Three Spheres",
+      "summary": "Rosalind builds a mechanical orrery illustrating the orbital mechanics of the Sun, Earth, and Moon. She explains solar eclipses and syzygy alignment to Queen Iselde and King Maelor, forecasting a Total Solar Eclipse occurring in exactly three days."
+    },
+    {
+      "number": 46,
+      "title": "The Forensic Tribunal",
+      "summary": "Armed with chemical test results, cipher decryptions, and fingerprint evidence, Queen Iselde and Lady Rosalind convene a royal court tribunal. Through clear scientific deduction, they unmask the traitorous Duke who used ancient trickery to manipulate the kingdom."
+    },
+    {
+      "number": 47,
+      "title": "The Smoked Glass Corona",
+      "summary": "The day of the Great Eclipse arrives. Warning the court against irreversible retinal damage from ultraviolet rays, Lady Rosalind and Leo craft protective smoked-glass viewing plates for the royal family, explaining the solar corona and eye safety."
+    },
+    {
+      "number": 48,
+      "title": "The Great Throne Obscura",
+      "summary": "During totality, the throne room is sealed into a colossal camera obscura. As the moon covers the sun, the Shadow entity reveals its true nature: an ancient sentient projection created by the First Dynasty to record royal wisdom and protect the realm from ignorance."
+    },
+    {
+      "number": 49,
+      "title": "Harmonic Resonance of the Crown",
+      "summary": "Prince Leo plays the resonant frequencies on his tuned crystal glasses, while Rosalind directs the parabolic bronze mirrors toward the throne. Combining optics, sound resonance, and geometry, King Maelor and the Shadow merge their intentions into harmonic balance."
+    },
+    {
+      "number": 50,
+      "title": "The Light of Varn",
+      "summary": "Superstition gives way to knowledge across the realm. Queen Iselde and Lady Rosalind charter the Royal Academy of Natural Sciences; Prince Leo is named Chief Junior Inquisitor of Inventions; and King Maelor's shadow becomes an enlightened court companion, projecting witty educational shadow puppets for the cheering children of Varn."
+    }
+  ],
+  "style_key": "realistic",
+  "visual_style": "ultra-realistic, high-resolution cinema still, natural lighting, clear bright background, shot on 85mm high quality cinema camera, 8k resolution, tack-sharp focus, natural skin texture, glamorous high dynamic range cinematography"
+}

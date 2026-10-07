@@ -1,0 +1,135 @@
+{
+  "title": "The Shadow Moves First",
+  "scenes": [
+    {
+      "dialogue": [
+        {"speaker": "King Maelor Varn", "line": "Iselde, look behind my shoulder... look at the stone wall. My shadow lifted its goblet three seconds before my own hand moved."},
+        {"speaker": "Queen Iselde", "line": "Steady yourself, Maelor. The entire court is watching. It is only the flickering draft from the grand braziers playing tricks on your tired eyes."}
+      ],
+      "visual_prompt": "Ultra-realistic 8k resolution glamour cinematography shot on 85mm lens. Grand royal banquet hall, clear bright warm candlelight, opulent feast table. King Maelor Varn in crimson robes with his iron crown beside Queen Iselde in regal emerald velvet and sapphire diadem, whispering tensely.",
+      "characters": ["King Maelor Varn", "Queen Iselde"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Prince Leo", "line": "Father is right, Mother! Look at the incidence angle. The candle is thirty degrees to the left, which means by the laws of rectilinear light propagation, Father's shadow cannot bend upward!"},
+        {"speaker": "King Maelor Varn", "line": "Leo, put down the wooden protractor. We are presiding over a royal banquet, not your natural philosophy academy."}
+      ],
+      "visual_prompt": "Ultra-realistic 8k cinema shot. Eight-year-old Prince Leo with tousled chestnut curls, rolled-up blue sleeves, holding a brass-inlaid wooden protractor and plumb line against the stone wall, pointing enthusiastically at King Maelor's unnatural shadow.",
+      "characters": ["Prince Leo", "King Maelor Varn"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "The Shadow", "line": "Drink your wine, Maelor... the boy understands geometry better than you understand your own crown."},
+        {"speaker": "King Maelor Varn", "line": "Did you hear that? It spoke! It has a voice like grinding granite!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k close-up shot on high quality cinema camera. The Shadow, living silhouette on the carved granite wall shaped like King Maelor with iron crown, dense ink-black smoke body and piercing ember-gold eyes that narrow in amusement.",
+      "characters": ["The Shadow", "King Maelor Varn"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Lady Rosalind", "line": "A shadow with vocal resonance? Remarkable. Scientifically impossible, of course, because shadows possess neither vocal cords nor mass to displace air molecules... yet here we are."},
+        {"speaker": "Queen Iselde", "line": "Rosalind, my love, perhaps less scientific admiration and more protective caution before our guests notice the king is debating his own silhouette."}
+      ],
+      "visual_prompt": "Ultra-realistic 8k portrait cinematography. Lady Rosalind adjusting her delicate brass spectacles with a wry, amused smile, holding a leather observation journal beside Queen Iselde whose regal green eyes glance nervously at the murmuring court.",
+      "characters": ["Lady Rosalind", "Queen Iselde"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Chancellor Pell Ormund", "line": "Your Majesties! The harvest guild representatives are awaiting your toast! Why is the royal prince crawling beneath the banquet cloth with a measuring cord?"},
+        {"speaker": "Prince Leo", "line": "Look out, Chancellor! If you stand there, your convex belt buckle will create spherical aberration in my light path!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k comedic shot. Pompous Chancellor Pell Ormund in purple silk clutching parchment rolls with a scandalized double chin, while Prince Leo peeks out from under the linen tablecloth with brass calipers.",
+      "characters": ["Chancellor Pell Ormund", "Prince Leo"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Captain Doran Kell", "line": "Sire, forgive the disruption! The southern alarm bell just sounded. The inner corridor of the treasury has been breached!"},
+        {"speaker": "King Maelor Varn", "line": "Breached? The treasury is sealed behind six inches of solid iron! Doran, take the guards!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k action cinematography. Captain Doran Kell in battered steel breastplate and red sash bursting into the bright hall, hand on his sword hilt, face tense with urgent news under the chandeliers.",
+      "characters": ["Captain Doran Kell", "King Maelor Varn"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Queen Iselde", "line": "We go together. Doran, clear the corridor. Rosalind, take Leo's hand—do not let him run ahead with his gunpowder tubes."},
+        {"speaker": "Lady Rosalind", "line": "They are sulfur pellets, Iselde, perfectly stable unless compressed... Leo, hand those to me immediately."}
+      ],
+      "visual_prompt": "Ultra-realistic 8k dramatic shot. The royal family moving in haste down the grand hall. Queen Iselde striding with commanding authority while Lady Rosalind gently confiscates a glowing glass vial from Prince Leo.",
+      "characters": ["Queen Iselde", "Lady Rosalind", "Prince Leo"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Prince Leo", "line": "Notice the draft in this corridor, Aunt Rosalind? The torches are leaning fifteen degrees north. There is negative air pressure drawing down from the vaults!"},
+        {"speaker": "Lady Rosalind", "line": "Convection currents, Leo. Cold air from the catacombs displacing warm air. Excellent observation, my clever boy."}
+      ],
+      "visual_prompt": "Ultra-realistic 8k corridor shot. High gothic arched stone pillars lit by flaming wall torches. Prince Leo watching the smoke plumes drift while Lady Rosalind nods with scholarly pride.",
+      "characters": ["Prince Leo", "Lady Rosalind"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Captain Doran Kell", "line": "Halt! Here is the vault door. The outer seal is untouched, but the interior drop-bolt has fallen into place. It is locked from inside!"},
+        {"speaker": "King Maelor Varn", "line": "Sir Caleb was posted inside the chamber on guard duty. Caleb! Answer your king!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k cinema shot. Heavy reinforced iron vault door embedded in massive granite stones. Captain Doran Kell with drawn sword pounding on the iron studs while King Maelor listens intently.",
+      "characters": ["Captain Doran Kell", "King Maelor Varn"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Prince Leo", "line": "Mother, give me your silver hairpin! If I slide it through the keyhole at a forty-five degree angle, we can create a class-one lever against the counter-latch!"},
+        {"speaker": "Chancellor Pell Ormund", "line": "Outrageous! A child picking the sacred royal treasury lock with the Queen's jewelry? What would the ancestors say?"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k detailed close-up. Prince Leo kneeling before the giant brass keyhole, examining the mechanical tumblers with a small magnifying lens, while Chancellor Pell flaps his hands in horror.",
+      "characters": ["Prince Leo", "Chancellor Pell Ormund"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Lady Rosalind", "line": "The ancestors would say Archimedes understood levers, Pell. Hold the torch steady, Doran. Fulcrum in place... push down on the pin, Leo."},
+        {"speaker": "Prince Leo", "line": "Mechanical advantage for the win! The bolt is sliding back!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k shot. Lady Rosalind guiding Prince Leo's hands on the silver lever mechanism. A satisfying heavy metallic clunk echoes through the stone archway as the heavy bolt gives way.",
+      "characters": ["Lady Rosalind", "Prince Leo", "Captain Doran Kell"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Captain Doran Kell", "line": "Door is opening! Weapons drawn, protect the Queen!"},
+        {"speaker": "Queen Iselde", "line": "By the stars... Sir Caleb! He is on the floor beside the royal bullion!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k cinematography. The massive vault door swinging open into a vault glittering with chests of gold coin and jewels. Guard Sir Caleb lies motionless in polished plate armor on the flagstones.",
+      "characters": ["Captain Doran Kell", "Queen Iselde"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Lady Rosalind", "line": "No blood, no broken bones. Check the carotid pulse—sixty beats a minute, steady and slow. He is not slain, Maelor, merely in a profound stupor."},
+        {"speaker": "Prince Leo", "line": "Look at the floor around his helmet! White frost crystals! The room temperature dropped below freezing right here, but nowhere else!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k close-up shot. Lady Rosalind with two fingers checking the fallen knight's neck pulse, while Prince Leo inspects tiny glistening frost patterns on the stone with a magnifying glass.",
+      "characters": ["Lady Rosalind", "Prince Leo"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "The Shadow", "line": "Gold cannot buy warmth from the grave, King of Varn... nor can little levers keep out what has always belonged to this castle."},
+        {"speaker": "King Maelor Varn", "line": "Stand back, everyone! It is on the treasury wall above the First King's chest!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k dramatic wide shot. Projected against the glistening granite wall above mounds of ancient gold, The Shadow stands tall, silhouette wearing the iron crown with burning gold eyes looking down mockingly.",
+      "characters": ["The Shadow", "King Maelor Varn"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "Prince Leo", "line": "Hey, Shadow! Eat optical dispersion! Prismatic refraction incoming!"},
+        {"speaker": "Lady Rosalind", "line": "Leo, tilt the quartz crystal toward the lantern flame—split the white light into ultraviolet!"}
+      ],
+      "visual_prompt": "Ultra-realistic 8k cinema still. Prince Leo raising a multifaceted quartz prism into a bright beam of torchlight. A brilliant rainbow spectrum fans out across the chamber, beam hitting the shadow.",
+      "characters": ["Prince Leo", "Lady Rosalind"]
+    },
+    {
+      "dialogue": [
+        {"speaker": "The Shadow", "line": "Clever boy... violet light stings. But the eclipse draws near, little prince. The darkness will not always flee from your tiny glass toys."},
+        {"speaker": "Queen Iselde", "line": "It vanished into the stone seam! Doran, secure the vault. Rosalind, Leo... tonight we begin our investigation. The throne will not fall to shadows while science and courage stand in this house."}
+      ],
+      "visual_prompt": "Ultra-realistic 8k grand resolution ending shot. Queen Iselde standing tall and regal with Lady Rosalind and Prince Leo, torches casting warm brave light across the stone vault as King Maelor watches with awe and renewed resolve.",
+      "characters": ["The Shadow", "Queen Iselde", "Lady Rosalind"]
+    }
+  ],
+  "summary": "King Maelor's shadow moves independently at a banquet, sparking panic. Prince Leo and Lady Rosalind use optical science and simple levers to breach the locked vault and discover a guard put into a frost stupor, driving the shadow back with prismatic violet light.",
+  "caption": "When the king's shadow goes rogue, royal science and prince contraptions strike back! ⚡👑 #TheKingsShadow #EducationalFantasy #MedievalSciFi #PrinceLeo #RoyalMystery"
+}

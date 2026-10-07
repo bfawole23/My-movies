@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Rendered video outputs & heavy media
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# Intermediate render work & temp files
+**/work/
+**/_shots_*/
+**/_temp_*/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
